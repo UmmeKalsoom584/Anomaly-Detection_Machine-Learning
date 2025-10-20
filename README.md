@@ -1,3 +1,5 @@
+Multi-architecture autoencoder project (FCN/CNN/VAE) for image reconstruction and anomaly detection with optimizer comparison and performance analysis.
+
 **Overview of the Project.**
 
 ML project implementing autoencoders (FCN, CNN, VAE) for image reconstruction & anomaly detection. Features optimizer comparison (Adam vs. SGD) 📈, latent space analysis 🔍, and evaluation via MSE/ROC AUC.
